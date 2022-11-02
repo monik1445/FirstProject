@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.Date;
+package com.Pragra;
 
 public class Day4 {
     public static void main(String[] args) {

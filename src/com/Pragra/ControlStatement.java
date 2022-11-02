@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.Scanner;
+package com.Pragra;
 
 public class ControlStatement {
     public static void main(String[] args) {

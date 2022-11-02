@@ -1,4 +1,4 @@
-package com.company;
+package com.Pragra;
 
 public class Calculator {
 
@@ -11,6 +11,7 @@ public class Calculator {
         int subtractionResult = Subtraction(a,b);
         int multiplicationResult = Multiplication(a,b);
         int divisiononResult = Division(a,b);
+
 
         System.out.println("Addition:"+ additionResult);
         System.out.println("Subtraction:"+ subtractionResult);

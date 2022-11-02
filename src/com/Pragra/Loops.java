@@ -1,4 +1,4 @@
-package com.company;
+package com.Pragra;
 
 public class Loops {
     public static void main(String[] args) {
