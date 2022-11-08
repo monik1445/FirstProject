@@ -11,5 +11,6 @@ public class Assignment {
             sum=sum+i;
         }
         System.out.println("The sum of natural numbers upto 10 is:"+sum);
+        System.out.println("vivek changes");
     }
 }
